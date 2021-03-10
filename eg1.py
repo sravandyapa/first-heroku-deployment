@@ -56,7 +56,7 @@ def addItems(name):
             return "successfully Appended"
     return "No Such Store Exists"
 
-app.run(host='192.168.29.181',port=12345)
+#app.run(host='192.168.29.181',port=12345)
 
 
 
